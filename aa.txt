@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "js豆瓣",
-      "name": "�cj自用",
+      "name": "🍥cj自用🍥",
       "type": 3,
       "api": "https://jihulab.com/iduoduo/xduo/-/raw/main/libs/drpy2.js",
       "searchable": 0,
